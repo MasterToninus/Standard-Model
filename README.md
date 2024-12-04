@@ -2,14 +2,24 @@
 
 This repository contains LaTeX code and reference materials to generate a visualization of the Standard Model of particle physics. The provided `.tex` file allows you to produce a diagram that illustrates the fundamental particles and their interactions.
 
-![Standard Model Diagram](figs/standard-model_Lubej.png)
+
+
+![Standard Model Diagram](figs/standard-model_Burgard.jpg)
+
+
+### Disclaimer
+*Please note that, at this stage, this repository contains only a collection of materials created by other authors, all properly referenced. The purpose of this repository is to gather ideas and resources that will contribute to the development of my own infographic, which I plan to synthesize and create in the future. Any contributions or materials included here are not original work but sources that inspire the design of my personal Standard Model infographic.*
+
+
+
+
 
 ## Features
 - LaTeX code for rendering the Standard Model diagram.
 - Customizable elements for different representations and updates.
 - Clear structure for easy integration into research papers or presentations.
 
-## Original Inspirations / Authors
+## Original Inspirations / Authors / References
 - [Matic Lubej](https://github.com/mlubej/standard-model)
 - [David Galbraith](https://davidgalbraith.org/portfolio/ux-standard-model-of-the-standard-model/) & [Carsten Burgard](https://texample.net/tikz/examples/model-physics/)
 - [Izaak Neutelings](https://tikz.net/sm_particles/)
@@ -21,7 +31,7 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 Feel free to fork the repository and submit pull requests for any improvements or additions to the diagram, such as new particle representations or annotations. Contributions are welcome!
 
 
-## Other Examples
+## Other Examples from Wikipedia
 ![Standard Model Diagram Wikipedia](figs/standard-model_Wiki1.jpg)
 ![Standard Model Diagram Wikipedia](figs/standard-model_Wiki2.jpg)
 
